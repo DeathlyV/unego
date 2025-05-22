@@ -16,12 +16,11 @@
 > Use at your own risk! ([discussion](https://github.com/victornpb/undiscord/discussions/273)).
 
 1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one):  
-   * Chrome: [Violentmonkey][chrome_violentmonkey] or [Tampermonkey][chrome_tampermonkey]
-   * Firefox: [Greasemonkey][firefox_greasemonkey], [Tampermonkey][firefox_tampermonkey], or [Violentmonkey][firefox_violentmonkey]  
-   * Opera: [Tampermonkey][opera_tampermonkey] or [Violentmonkey][opera_violentmonkey]
-   * Brave: [Violentmonkey][chrome_violentmonkey] or [Tampermonkey][chrome_tampermonkey]
-   * Edge: [Tampermonkey][edge_tampermonkey]  
-   * Safari: ~[Tampermonkey][safari_tampermonkey]~ 
+   * Chrome: [Violentmonkey][chrome_violentmonkey]
+   * Firefox:[Violentmonkey][firefox_violentmonkey]  
+   * Opera: [Violentmonkey][opera_violentmonkey]
+   * Brave: [Violentmonkey][chrome_violentmonkey]
+   * Edge: [Violentmonkey][edge_violentmonkey]  
     
 1. Install Undiscord:  
   [![][greasyfork_icon]][greasyfork_url] or [![][openuserjs_icon]][openuserjs_url]  
