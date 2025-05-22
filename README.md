@@ -1,15 +1,14 @@
-# Undiscord - Delete all messages in a Discord channel or DM
+# UnEgo - Optimized version of Undiscord, Delete all messages in a Discord channel or DM
 <!-- shields -->
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/victornpb/undiscord?color=%235865f2&display_name=tag&label=Undiscord&style=flat-square)][greasyfork_url]
-[![GitHub Release Date](https://img.shields.io/github/release-date/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/releases)
-[![GitHub License](https://img.shields.io/github/license/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/blob/master/LICENSE)
-[![CodeFactor](https://www.codefactor.io/repository/github/victornpb/undiscord/badge?style=flat-square)](https://www.codefactor.io/repository/github/victornpb/undiscord?style=flat-square)
-![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/victornpb/undiscord?style=flat-square)
-[![GitHub Stars](https://img.shields.io/github/stars/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/network/members)
-[![GitHub Discussions](https://img.shields.io/github/discussions/victornpb/undiscord?style=flat-square)](https://github.com/victornpb/undiscord/discussions)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/victornpb/undiscord?style=flat-square&color=green)](https://github.com/victornpb/undiscord/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/victornpb/undiscord?style=flat-square&color=green)](https://github.com/victornpb/undiscord/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DeathlyV/unego?color=%235865f2&display_name=tag&label=Unego&style=flat-square)][greasyfork_url]
+[![GitHub Release Date](https://img.shields.io/github/release-date/DeathlyV/unego?style=flat-square)](https://github.com/victornpb/undiscord/releases)
+[![GitHub License](https://img.shields.io/github/license/DeathlyV/unego?style=flat-square)](https://github.com/victornpb/undiscord/blob/master/LICENSE)
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/DeathlyV/unego?style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/DeathlyV/unego?style=flat-square)](https://github.com/victornpb/undiscord/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/DeathlyV/unego?style=flat-square)](https://github.com/victornpb/undiscord/network/members)
+[![GitHub Discussions](https://img.shields.io/github/discussions/DeathlyV/unego?style=flat-square)](https://github.com/victornpb/undiscord/discussions)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DeathlyV/unego?style=flat-square&color=green)](https://github.com/DeathlyV/unego/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/DeathlyV/unego?style=flat-square&color=green)](https://github.com/DeathlyV/unego/issues?q=is%3Aissue+is%3Aclosed)
 <!-- end shields -->
 
 > ⚠️ **Any tool that automates actions on user accounts, including this one, could result in account termination.** (see [self-bots][self-bots]).  
@@ -22,9 +21,8 @@
    * Brave: [Violentmonkey][chrome_violentmonkey]
    * Edge: [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)
     
-1. Install Undiscord:  
-  [![][greasyfork_icon]][greasyfork_url] or [![][openuserjs_icon]][openuserjs_url]  
-  (NOTE: GreasyFork is recommended for now, OpenUserJS is not receiving updates)
+1. Install UnEgo:  
+  [![][greasyfork_icon]][greasyfork_url]
 
 1. Open <a href="https://discord.com/channels/@me" target="_blank">Discord</a> in your __browser__ (Not the App) and go to the channel or direct message you would like to be wiped.
 
@@ -37,13 +35,13 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/3372598/222977831-88eeb59a-186a-4947-8e33-0ac245c3af5c.gif)
 
-I made this tool just for you ❤️ , it would be awesome if you could just click the [⭐️ Star button](https://github.com/victornpb/undiscord) at the top!
+This is an optimized version of undiscord, I created this since the one that victornpb made wasn't updated in 2 years, resulting in lots of errors, you can star this version if you want [⭐️ Star button](https://github.com/DeathlyV/unego) at the top, and also star the original [⭐️ Star ](https://github.com/victornpb/undiscord).
 
-> A few extra generous people asked for this, so here you can [buy me a coffee](https://www.buymeacoffee.com/vitim). Thank you! You'll be in my special list ^_^
+>Go buy a coffee for victor!! [buy victor a coffee](https://www.buymeacoffee.com/vitim). ^_^
 
 ----
 ### Need help?
-Check out the [wiki](https://github.com/victornpb/undiscord/wiki) for helpful articles, or read existing [questions](https://github.com/victornpb/undiscord/discussions), or post a new one.
+Check out victor's [wiki](https://github.com/victornpb/undiscord/wiki) for helpful articles, or read existing [questions from his discussions](https://github.com/victornpb/undiscord/discussions), or post a new one on [mine](https://github.com/DeathlyV/unego/discussions).
 
 ### Have an Idea or Feature request?
 Check out the [Ideas][ideas] section, if your idea _hasn't been posted before_, please post a new one.
@@ -104,7 +102,7 @@ Please read: [what I'm doing to ensure this is safe for users][security_policy].
 
   [wiki]: https://github.com/victornpb/undiscord/wiki
   [discussions]: https://github.com/victornpb/undiscord/discussions
-  [ideas]: https://github.com/victornpb/undiscord/discussions/categories/2-ideas
+  [ideas]: https://github.com/DeathlyV/unego/discussions/categories/ideas
   [questions]: https://github.com/victornpb/undiscord/discussions/categories/1-questions-answers
   [security_policy]: https://github.com/victornpb/undiscord/wiki/Security-Policy
 
@@ -120,5 +118,5 @@ Please read: [what I'm doing to ensure this is safe for users][security_policy].
   [opera_violentmonkey]: https://addons.opera.com/extensions/details/violent-monkey/
 
 <!-- Download links -->
-  [greasyfork_url]: <https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion> "Get Undiscord from GreasyFork"
+  [greasyfork_url]: <https://greasyfork.org/en/scripts/536764-unego> "Get Unego from GreasyFork"
   [openuserjs_url]: <https://openuserjs.org/scripts/victornpb/Undiscord_-_Delete_all_messages_in_a_Discord_channel_or_DM_(Bulk_deletion)> "Get Undiscord from OpenUserJS"
