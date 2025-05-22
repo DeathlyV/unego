@@ -17,10 +17,10 @@
 
 1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one):  
    * Chrome: [Violentmonkey][chrome_violentmonkey]
-   * Firefox:[Violentmonkey][firefox_violentmonkey]  
+   * Firefox: [Violentmonkey][firefox_violentmonkey]  
    * Opera: [Violentmonkey][opera_violentmonkey]
    * Brave: [Violentmonkey][chrome_violentmonkey]
-   * Edge: [Violentmonkey][edge_violentmonkey]  
+   * Edge: [Violentmonkey][edge_violentmonkey] 
     
 1. Install Undiscord:  
   [![][greasyfork_icon]][greasyfork_url] or [![][openuserjs_icon]][openuserjs_url]  
