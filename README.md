@@ -15,7 +15,7 @@
 > ⚠️ **Any tool that automates actions on user accounts, including this one, could result in account termination.** (see [self-bots][self-bots]).  
 > Use at your own risk! ([discussion](https://github.com/victornpb/undiscord/discussions/273)).
 
-1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (skip if you already have one):  
+1. First you need a Browser Extension for managing UserScripts[[1]][userscrips_faq] (Violentmonkey recommended, since tampermonkey doesn't seem to be working anymore):  
    * Chrome: [Violentmonkey][chrome_violentmonkey]
    * Firefox: [Violentmonkey][firefox_violentmonkey]  
    * Opera: [Violentmonkey][opera_violentmonkey]
