@@ -20,7 +20,7 @@
    * Firefox: [Violentmonkey][firefox_violentmonkey]  
    * Opera: [Violentmonkey][opera_violentmonkey]
    * Brave: [Violentmonkey][chrome_violentmonkey]
-   * Edge: [Violentmonkey][edge_violentmonkey] 
+   * Edge: [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)
     
 1. Install Undiscord:  
   [![][greasyfork_icon]][greasyfork_url] or [![][openuserjs_icon]][openuserjs_url]  
