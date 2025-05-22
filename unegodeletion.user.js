@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            UnEgo
 // @description     Delete all messages in a Discord channel or DM ("Optimized Version of UnDiscord")
-// @version         0.0.1
+// @version         0.0.2
 // @author          BrickEgo
 // @homepageURL     https://github.com/DeathlyV/unego
 // @supportURL      https://github.com/DeathlyV/unego/discussions
@@ -20,7 +20,7 @@
 (function () {
   'use strict';
 
-  const VERSION = "0.0.1";
+  const VERSION = "0.0.2";
 
   const clearVisionVars = `
 :root {
@@ -167,7 +167,7 @@
 #unego input[type="number"],
 #unego input[type="range"] { font-size: 16px; box-sizing: border-box; width: 100%; border-radius: 3px; color: var(--text-normal); background-color: var(--input-background); border: none; transition: border-color 0.2s ease-in-out 0s; padding: 10px; height: 40px; }
 #unego .divider,
-#unego hr { border: none; margin-bottom: 24px; padding-bottom: 4px; border-bottom: 1px solid var(--background-modifier-accent); }
+#unego hr { border: none; margin-bottom: 24px; padding-bottom: 1px; border-bottom: 1px solid var(--background-modifier-accent); background-color: var(--text-color);}
 #unego .sectionDescription { margin-bottom: 16px; color: var(--text-color); /*var(--header-secondary);*/ font-size: 14px; line-height: 20px; font-weight: 400; }
 #unego a { color: var(--text-link); text-decoration: none; }
 #unego .btn,
@@ -370,7 +370,6 @@
                         <button id="getAuthor">me</button>
                     </div>
                 </fieldset>
-                <hr>
                 <fieldset>
                     <legend>
                         Server ID
@@ -440,7 +439,6 @@
                         <label><input id="includePinned" type="checkbox">Include pinned</label>
                     </div>
                 </fieldset>
-                <hr>
                 <fieldset>
                     <legend>
                         Pattern
@@ -556,7 +554,6 @@
                          If the process stops before all messages are deleted, automatically retry after a delay.
                      </div>
                 </fieldset>
-                <hr>
                 <fieldset>
                     <legend>
                         Authorization Token
@@ -570,7 +567,6 @@
                     </div>
                 </fieldset>
             </details>
-            <hr>
             <details>
                     <summary>Custom Theme Design</summary>
                     <fieldset>
@@ -599,7 +595,6 @@
                                 <input type="range" id="opacityText" min="0" max="1" step="0.01" value="1" title="Opacity (0-1)">
                     </fieldset>
             </details>
-            <hr>
             <div></div>
             <div class="info">
                 UnEgo ${VERSION}
@@ -2026,6 +2021,9 @@ body.unego-pick-message.after [id^="message-content-"]:hover::after {
         unegoCore.stop();
     }
 
+    // ---- END UnEgo ----
+
+    // Initialize the UI and set up the core functionality
     initUI();
 
 })();
